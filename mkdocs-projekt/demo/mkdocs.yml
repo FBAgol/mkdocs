@@ -1,0 +1,10 @@
+site_name: My Docs
+nav:
+  - Introduction: "index.md"
+  - Extern:
+      - Api-Seite: "extern/api.md"
+  - Intern:
+      - Kontakt: "intern/contact.md"
+      - Doku: "intern/documentation.md"
+theme:
+  name: material
