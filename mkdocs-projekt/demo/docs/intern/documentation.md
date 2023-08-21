@@ -1,6 +1,6 @@
-# Homepage 
+# Homepage
 
-## lorem text: 
+## lorem text:
 Ein Projekt startet und doch es gibt noch keinen Text, allerdings sollte das Layout schon bald präsentiert werden ... was tun?
 
 Damit das Projekt gleich starten kann benutze einfach etwas Lorem ipsum; Blind-, Füll-, Dummy-, Nachahmungs-, Platzhaltertext.
